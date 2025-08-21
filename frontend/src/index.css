@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  --color-hover-in-nav:oklch(52.7% 0.154 150.069) ;  /* pink-500 */
+  --color-text-dark: #374151; /* gray-700 */
+}
+
